@@ -5,6 +5,8 @@ I wrote this software while working on my Computer Science degree at the Univers
 
 When you run the program, you will be given two options: play a game, or run a simulation.
 
+![](https://github.com/Decryptic/BaccaratSimulator/blob/main/img/0baccaratPlaySetup.png)
+
 Playing a game looks like the image below, where the number of players are selected with a given balance, then each player can place on the outcome of the hand: either player, banker or tie. Then a hand is dealt, and the players are either debited or credited.
 
 Option two, running a simulation, looks like what is pictured below. Only one player plays against the house in a simultion. Once initial balances are chosen, then the betting strategy is selected: player, banker, tie, or some combination. Also, the players bet amount must be selected: either constant, all-in on every hand, or random. A stats class was added to keep track of how the player is doing throughout the course of the game. The simulation then runs until the maximum hands is played, otherwise until the the player goes broke. At the end of the simulation, it shows how many hands were played, how much the player had at their peak, and how much they have at the end.
