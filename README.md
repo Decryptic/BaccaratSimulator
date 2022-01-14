@@ -7,7 +7,7 @@ When you run the program, you will be given two options: play a game, or run a s
 
 ![](https://github.com/Decryptic/BaccaratSimulator/blob/main/img/0baccaratPlaySetup.png)
 
-Playing a game looks like the image below, where the number of players are selected with a given balance, then each player can place on the outcome of the hand: either player, banker or tie. Then a hand is dealt, and the players are either debited or credited.
+Playing a game looks like the image below, where the number of players are selected with a given balance, then each player can place a bet on the outcome of the hand: either player, banker or tie. Then a hand is dealt, and the players are either debited or credited.
 
 Sample hand 1:
 
